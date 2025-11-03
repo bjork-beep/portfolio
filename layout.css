@@ -19,3 +19,9 @@ video {
 #flex_box2 video {
   max-width: 250px;
 }
+
+@media screen and (max-width: 600px) {
+  #flex_box2 video {
+    max-width: 200px;
+  }
+}
