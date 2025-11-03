@@ -6,3 +6,22 @@ video {
   display: block;
   padding-top: 2rem;
 }
+
+/* PROJEKT 2 */
+
+#flex_box2 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  max-width: 50vw;
+}
+
+#flex_box2 video {
+  max-width: 250px;
+}
+
+@media screen and (max-width: 600px) {
+  #flex_box2 video {
+    max-width: 200px;
+  }
+}
