@@ -67,6 +67,10 @@ a:hover {
   text-decoration: underline;
 }
 
+#obs {
+  font-size: small;
+}
+
 /* MENU */
 
 header {
