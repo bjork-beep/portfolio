@@ -6,3 +6,11 @@ video {
   display: block;
   padding-top: 2rem;
 }
+
+/* PROJEKT 2 */
+
+#flex_box2 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
