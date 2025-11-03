@@ -21,9 +21,17 @@ html {
 
 h1 {
   font-family: "june-expt-variable", sans-serif;
-  font-variation-settings: "STYL" 100;
-  font-size: 4rem;
-  color: var(--primary);
+  font-variation-settings: "STYL" 0;
+  font-size: 3rem;
+  color: black;
+}
+
+#whitehero {
+  color: white;
+}
+
+#bluehero {
+  color: blue;
 }
 
 h2 {
